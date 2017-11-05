@@ -1,7 +1,7 @@
----
+ï»¿---
 layout: post
 title: "DailyNote"
-excerpt: "ÈÕ³£×Ü½á"
+excerpt: "æ—¥å¸¸æ€»ç»“"
 categories:
   - DaliyNote
 tags:
@@ -10,13 +10,13 @@ tags:
   - test
 last_modified_at: 2017-11-05T12:26:59-05:00
 ---
-µÚÒ»ÆªBlog
-##±êÌâ
-±êÇ©
+ç¬¬ä¸€ç¯‡Blog
+##æ ‡é¢˜
+æ ‡ç­¾
 *1
 *2
-*¡­¡­
-»ÒÉ«×ÖÌå
->Ê¾Àý
+*â€¦â€¦
+ç°è‰²å­—ä½“
+>ç¤ºä¾‹
 
 love

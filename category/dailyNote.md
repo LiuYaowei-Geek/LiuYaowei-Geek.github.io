@@ -1,6 +1,6 @@
----
+﻿---
 layout: category
 title: DaliyNote
 ---
 
-�ճ�
+日常
