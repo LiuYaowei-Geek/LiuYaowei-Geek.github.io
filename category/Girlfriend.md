@@ -1,7 +1,8 @@
 ---
 layout: category
-title: Girfriend
+title: Girlfriend
 ---
+
 Hey,I love my girfirend!
 
 This is just for her!
