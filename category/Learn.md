@@ -1,6 +1,6 @@
 ---
 layout: category
-title: learn
+title: Learn
 ---
 
 just record my process of learning technology
