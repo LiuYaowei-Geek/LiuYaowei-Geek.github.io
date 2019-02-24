@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            LiuYaowei
 tagline:          'Blog'
-description:      '爱生活，爱梦想，风雨兼程'
+description:      '爱生活，爱梦想，风雨兼程！'
 url:              https://liuyaowei-geek.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -18,7 +18,7 @@ author:
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
-# paginate_path:    '/page:num'
+paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
@@ -27,11 +27,11 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.4.1
+# version:            3.4.1
 sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://liuyaowei-geek.github.io/
