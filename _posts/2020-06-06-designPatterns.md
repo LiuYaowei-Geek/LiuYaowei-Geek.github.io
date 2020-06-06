@@ -3,7 +3,7 @@ layout: post
 title: "database"
 excerpt: "learning designPatterns"
 categories:
-  - designPatterns
+  - design patterns
 tags:
   - markdown
 ---

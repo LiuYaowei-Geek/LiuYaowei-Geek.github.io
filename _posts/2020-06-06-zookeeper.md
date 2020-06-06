@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "eventBus"
-excerpt: "learning eventBus"
+title: "zookeeper"
+excerpt: "learning zookeeper"
 categories:
   - middleware
 tags:
