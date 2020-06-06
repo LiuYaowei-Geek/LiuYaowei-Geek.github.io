@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Java
+title: JAVA
 ---
 Follow me to learn JAVA!
