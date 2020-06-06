@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "welcome"
+title: "Welcome"
 categories:
-  - Post
+  - Welcome
 ---
 nice to meet you
+![welcome](https://raw.githubusercontent.com/LiuYaowei-Geek/LiuYaowei-Geek.github.io/master/_posts/pictures/welcome.jpg)
