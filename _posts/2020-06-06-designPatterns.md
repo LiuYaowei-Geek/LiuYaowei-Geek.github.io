@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "database"
+title: "design patterns"
 excerpt: "learning designPatterns"
 categories:
   - design patterns
