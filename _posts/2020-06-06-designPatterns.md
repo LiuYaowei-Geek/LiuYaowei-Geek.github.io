@@ -8,6 +8,21 @@ tags:
   - design patterns
 ---
 
+* [design patterns](#design-patterns)
+   * [设计模式六大原则](#设计模式六大原则)
+      * [1、开闭原则（open close principle）](#1开闭原则open-close-principle)
+      * [2、里氏替换原则（Liskov Substitution Principle）](#2里氏替换原则liskov-substitution-principle)
+      * [3、依赖倒转原则（Dependence Inversion Principle）](#3依赖倒转原则dependence-inversion-principle)
+      * [4、接口隔离原则（Interface Segregation Principle）](#4接口隔离原则interface-segregation-principle)
+      * [5、迪米特法则，又称最少知道原则（Demeter Principle）](#5迪米特法则又称最少知道原则demeter-principle)
+      * [6、合成复用原则（Composite Reuse Principle）](#6合成复用原则composite-reuse-principle)
+   * [设计模式分类](#设计模式分类)
+      * [创建型模式（Creational Patterns）](#创建型模式creational-patterns)
+      * [结构型模式（Structural Patterns）](#结构型模式structural-patterns)
+      * [行为型模式（Behavioral Patterns）](#行为型模式behavioral-patterns)
+         * [工厂模式](#工厂模式)
+         * [抽象工厂](#抽象工厂)
+
 # design patterns
 
 ## 设计模式六大原则
