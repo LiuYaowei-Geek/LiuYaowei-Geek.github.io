@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            LiuYaowei
+title:            刘耀威
 tagline:          'Blog'
 description:      '爱生活，爱梦想，风雨兼程！'
 url:              https://liuyaowei-geek.github.io/
