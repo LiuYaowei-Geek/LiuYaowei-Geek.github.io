@@ -5,7 +5,7 @@ excerpt: "learning designPatterns"
 categories:
   - design patterns
 tags:
-  - markdown
+  - design patterns
 ---
 
 # design patterns

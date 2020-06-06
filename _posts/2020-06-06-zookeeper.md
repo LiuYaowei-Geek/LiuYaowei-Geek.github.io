@@ -5,7 +5,8 @@ excerpt: "learning zookeeper"
 categories:
   - middleware
 tags:
-  - markdown
+  - zookeeper
+  - middleware
 ---
 
 # ZooKeeper
