@@ -13,7 +13,6 @@ tags:
    * [zookeeperCMD](#zookeepercmd)
    * [简介](#简介)
 # ZooKeeper
-
 ## zookeeperCMD
 1. 启动服务端：`zkServer.cmd`
 2. 启动客户端：`zkCli.cmd -server 127.0.0.1:2181`
